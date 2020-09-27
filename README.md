@@ -1,8 +1,4 @@
-<object data="https://github.com/basilcea/basilcea/blob/master/header.pdf" type="application/pdf">
-    <embed src="https://github.com/basilcea/basilcea/blob/master/header.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Portfolio](https://basilcea.github.io/basilcea/header.pdf)
 
 <!--
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
