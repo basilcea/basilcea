@@ -1,4 +1,4 @@
-![Hello][https://github.com/basilcea/basilcea/blob/master/hello.gif]
+![Hello](https://github.com/basilcea/basilcea/blob/master/hello.gif)
 
 <!--
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
