@@ -1,4 +1,4 @@
-Portfolio](https://basilcea.github.io/basilcea/header.pdf)
+[Portfolio.pdf](https://basilcea.github.io/basilcea/header.pdf)
 
 <!--
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
