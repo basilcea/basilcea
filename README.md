@@ -1,5 +1,6 @@
-![Portfolio](https://github.com/basilcea/basilcea/blob/master/portfolio.png)
+Hi there 👋, I'm Basil.
 
+[Linkedin](https://linkedin.com/in/basilcea)
 <!--
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
