@@ -1,7 +1,7 @@
-Hi there 👋, I'm Basil.
-
-[Linkedin](https://linkedin.com/in/basilcea)
-<!--
+<h2 align="center"> Hi there 👋, I'm Basil.</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/basilcea">LinkedIn</a> •
+</p>
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
