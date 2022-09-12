@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/basilcea">LinkedIn</a> •
 </p>
+<!--
 **basilcea/basilcea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
