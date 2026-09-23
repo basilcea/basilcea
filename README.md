@@ -239,13 +239,10 @@ I'm interested in conversations and collaborations around:
 
 **Data Engineering • Data Platforms • Distributed Systems • Cloud Infrastructure • AI Engineering • Agentic Systems • Open Source**
 
-📍 **Kigali, Rwanda**
+🌐 **Portfolio:** basilcea.vercel.app
 
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+💼 **LinkedIn:** https://linkedin.com/in/basilcea
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
-
-📧 **Email:** YOUR_EMAIL
 
 ---
 
