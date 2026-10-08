@@ -19,7 +19,6 @@ I enjoy solving complex engineering problems and turning them into **reliable, s
 - 📊 Designing systems around **data quality, observability, lineage, and governance**
 - ⚙️ Automating infrastructure and delivery with **Terraform, CI/CD, Docker, and Kubernetes**
 - 🧠 Exploring **AI-native developer tooling and autonomous engineering workflows**
-- 🌍 Based in **Kigali, Rwanda**
 - 💼 Open to **Senior / Lead / Staff Data Engineering, Data Platform, and AI Engineering opportunities**
 
 ---
